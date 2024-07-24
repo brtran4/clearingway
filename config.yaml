@@ -711,7 +711,7 @@ guilds:
           description: "Once and Future King / Queen"
           type: "Cleared"
           color: 0x739BD0
-reclears:
+  reclears:
     - name: "Reclear UCoB"
       roles:
         - name: "Reclear UCoB"
@@ -737,7 +737,7 @@ reclears:
         - name: "Reclear TOP"
           type: "Reclear"
           color: 0x6534c6
-nameColor:
+  nameColor:
     - name: "The Legend's Color"
       roles:
         - name: "The Legend's Color"
