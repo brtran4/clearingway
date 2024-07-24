@@ -737,7 +737,7 @@ reclears:
         - name: "Reclear TOP"
           type: "Reclear"
           color: 0x6534c6
-name color:
+nameColor:
     - name: "The Legend's Color"
       roles:
         - name: "The Legend's Color"
