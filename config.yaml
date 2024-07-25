@@ -711,3 +711,65 @@ guilds:
           description: "Once and Future King / Queen"
           type: "Cleared"
           color: 0x739BD0
+  reclears:
+    - name: "Reclear UCoB"
+      roles:
+        - name: "Reclear UCoB"
+          type: "Reclear"
+          color: 0xfdfd96
+    - name: "Reclear UWU"
+      roles:
+        - name: "Reclear UWU"
+          type: "Reclear"
+          color: 0x97cae3
+    - name: "Reclear TEA"
+      roles:
+        - name: "Reclear TEA"
+          type: "Reclear"
+          color: 0xfae9c2
+    - name: "Reclear DSR"
+      roles:
+        - name: "Reclear DSR"
+          type: "Reclear"
+          color: 0xc9843f
+    - name: "Reclear TOP"
+      roles:
+        - name: "Reclear TOP"
+          type: "Reclear"
+          color: 0x6534c6
+    - name: "Reclear FRU"
+      roles:
+        - name: "Reclear FRU"
+          type: "Reclear"
+          color: 0x0000FF
+  nameColor:
+    - name: "The Legend's Color"
+      roles:
+        - name: "The Legend's Color"
+          type: "Name Color"
+          color: 0xfdfd96
+    - name: "The Ultimate Color"
+      roles:
+        - name: "The Ultimate Color"
+          type: "Name Color"
+          color: 0x97cae3
+    - name: "The Perfect Color"
+      roles:
+        - name: "The Perfect Color"
+          type: "Name Color"
+          color: 0xfae9c2
+    - name: "The Heavens' Color"
+      roles:
+        - name: "The Heavens' Color"
+          type: "Name Color"
+          color: 0xc9843f
+    - name: "The Alpha Color"
+      roles:
+        - name: "The Alpha Color"
+          type: "Name Color"
+          color: 0x6534c6
+    - name: "The Lesbians' Color"
+      roles:
+        - name: "The Lesbians' Color"
+          type: "Name Color"
+          color: 0xD52D00
